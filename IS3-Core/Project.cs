@@ -14,7 +14,7 @@ namespace iS3.Core
     //************************  Notice  **********************************
     //** This file is part of iS3
     //**
-    //** Copyright (c) 2015 Tongji University iS3 Team. All rights reserved.
+    //** Copyright (c) 2015-2019 Tongji University iS3 Team. All rights reserved.
     //**
     //** This library is free software; you can redistribute it and/or
     //** modify it under the terms of the GNU Lesser General Public
